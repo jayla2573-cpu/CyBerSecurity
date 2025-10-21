@@ -1,0 +1,108 @@
+﻿9/16/25
+Jayla Harvey
+
+
+https://dailysecurityreview.com/security-spotlight/amazon-data-breach-employee-information-exposed-after-vendor-hack/
+Reference:
+	URL:
+Amazon security breach
+	What type of cybercrime was committed?
+	Data breach
+	What form of the CIA Triad was violated?
+	Integrity: Because some of the users data can be changed by other people, not just them.
+	Does this event change how users will be authenticated in the future?
+
+
+
+
+
+
+Whose data was stolen?
+
+
+
+
+When did this happen ?
+
+
+
+
+How was data stolen?
+
+
+
+
+
+
+What current security controls were in place?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How could cybercrime have been prevented in this case?
+	 Yes, because they might feel that no matter who they share their information with, even family it can or will get breached.( example if some even gets your email they can do a lot of things with it like changing passwords.
+
+
+
+
+millions of employee records after a third-party vendor was compromised.
+
+
+
+
+
+
+November 11, 2024
+
+
+
+
+ security incident at a third-party service provider
+
+
+
+
+Privacy Settings : Users could customize their privacy settings to control who can access certain things.
+
+
+Two-Factor Authentication : Adds extra layer of security by requiring addresses and phone numbers.
+
+
+Device Security: The amazon devices  like Alexa and Echo are designed with a lot of privacy.
+
+
+
+
+
+
+Maybe when they  have employees do applications or when there starting the working for them not ask for much information without having the right tools to prevent hackers.
